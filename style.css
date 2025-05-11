@@ -451,3 +451,10 @@ width: 52vw;
 
 }
 }
+body.light-mode
+{
+  --bg-color: #ffffff;
+  --second-bg-color: #f0f0f0;
+  --text-color: #000000;
+  --main-color: #007bff;
+}
